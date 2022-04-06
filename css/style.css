@@ -97,6 +97,7 @@ main{
     grid-column-end: 5;
     grid-row-start: 3;
     grid-row-end: 4;
+    color: royalblue;
 }
 .try-now{
     grid-column-start: 1;
